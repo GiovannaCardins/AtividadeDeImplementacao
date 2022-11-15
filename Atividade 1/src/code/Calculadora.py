@@ -27,7 +27,7 @@ while (i == 's'):
         
         #Ao escolher o numero dois, será efetuada a subtração dos dois termos
 
-    elif (escolha == 3)
+    elif (escolha == 3):
         print(n1, "*", n2, "=", n1*n2)
         
         #Ao escolher o numero três, será feito o produto dos dois termos
